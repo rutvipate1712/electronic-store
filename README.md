@@ -1,2 +1,2 @@
-# electronic-store
+# Electronic-store
 This is PHP project for E-commerce site.
